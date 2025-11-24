@@ -1,4 +1,4 @@
-# [Calculator App (Toggle Theme - Dark/Light)](https://college-track.netlify.app/)
+# [Calculator App (Toggle Theme - Dark/Light)](https://calcy-figurate.netlify.app/)
 
 A responsive web-based calculator built with **Vanilla JavaScript** for performing basic arithmetic operations.
 
